@@ -1,0 +1,29 @@
+{
+  "name": "snake",
+  "version": "1.0.0",
+  "description": "Simple Snake game on javascript",
+  "main": "app.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wannabeyourdrug/SnakeTS.git"
+  },
+  "keywords": [
+    "snake",
+    "game",
+    "ts",
+    "js"
+  ],
+  "author": "Gusev Danila <wbydcloud.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wannabeyourdrug/SnakeTS/issues"
+  },
+  "homepage": "https://github.com/wannabeyourdrug/SnakeTS#readme",
+  "devDependencies": {
+    "ts-loader": "^7.0.2",
+    "typescript": "^3.8.3"
+  }
+}
