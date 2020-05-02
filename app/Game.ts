@@ -1,7 +1,6 @@
 import Field from './Field';
 import Snake from './Snake';
 import Food from './Food';
-import Point from './Point';
 
 enum Status {
     Menu = 0,
